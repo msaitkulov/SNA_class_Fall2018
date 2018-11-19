@@ -1,4 +1,5 @@
 # SNA_class_Fall2018
+M. Balashov, M. Saitkulov, P. Grachev M4237
 
 [Presentation(not final version)](https://docs.google.com/document/d/1Vlaa3zYtJzqzOBMLGHbJkvi19Jm6SxS__w-G52IP1Kk/edit?usp=sharing)
 
